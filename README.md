@@ -12,7 +12,7 @@ An intelligent retail automation system that leverages computer vision and machi
 
 ## 🎥 Demo
 
-[![Watch the video](github_assets/2.png)](https://drive.google.com/file/d/15eoGBw3SjDriYymjUkb_L5rgUbx-RZPX/view?usp=drive_link)
+[![Watch the video](github_assets/Thumbnail.png)](https://drive.google.com/file/d/15eoGBw3SjDriYymjUkb_L5rgUbx-RZPX/view?usp=drive_link)
 
 ## ✨ Features
 
