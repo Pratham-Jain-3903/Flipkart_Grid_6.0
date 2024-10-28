@@ -12,7 +12,7 @@ An intelligent retail automation system that leverages computer vision and machi
 
 ## 🎥 Demo
 
-[![Watch the video](path/to/github_assets/2.png)](https://drive.google.com/file/d/15eoGBw3SjDriYymjUkb_L5rgUbx-RZPX/view?usp=drive_link)
+[![Watch the video](github_assets/2.png)](https://drive.google.com/file/d/15eoGBw3SjDriYymjUkb_L5rgUbx-RZPX/view?usp=drive_link)
 
 ## ✨ Features
 
@@ -71,7 +71,7 @@ The system operates on a hybrid edge-cloud architecture:
    - Model updates and inventory synchronization
    - Storage and processing for long-term analytics
 
-![Dataflow Diagram](path/to/github_assets/5.png)
+![Dataflow Diagram](github_assets/5.png)
 
 ## 📊 Performance
 
@@ -80,11 +80,11 @@ The system operates on a hybrid edge-cloud architecture:
 - **Camera Support**: Up to 4 simultaneous feeds
 - **Memory Footprint**: <2GB on edge devices
 
-![Did you know we can ?!](path/to/github_assets/4.png)
+![Did you know we can ?!](github_assets/4.png)
 
 ## 📸 Interface
 
-![Interface](path/to/github_assets/9.png)
+![Interface](github_assets/9.png)
 
 ## 🔒 Security Features
 
