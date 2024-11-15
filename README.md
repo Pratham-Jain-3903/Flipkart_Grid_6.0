@@ -92,7 +92,6 @@ The system operates on a hybrid edge-cloud architecture:
 - **Role-Based Access Control**: Ensures only authorized access
 - **Audit Logging**: Keeps detailed logs for analysis and security
 - **Cloud Integration**: Fully secure and configurable
-Here’s an expanded section on challenges and solutions for the README:
 
 ---
 
@@ -110,9 +109,7 @@ Here’s an expanded section on challenges and solutions for the README:
    - **Challenge**: Given Flipkart’s diverse infrastructure, the system needed to optimize existing resources without requiring extensive additional investment.
    - **Solution**: Our hybrid model leverages both edge and cloud resources to maximize efficiency. By performing real-time inferencing on edge devices, we reduce the load on central servers, which in turn lowers idle server time and operational costs. A TCP connection ensures smooth data transfer between the edge and cloud, allowing for seamless data logging and analysis while keeping network usage optimized. Furthermore, our cloud-based logging system supports centralized monitoring and reporting, helping to streamline operations and reduce waste from unnecessary compute cycles. This approach minimizes the need for frequent upgrades and better utilizes the available resources across Flipkart's distributed network.
 
---- 
 
-This expanded section describes the specific challenges encountered and how the system architecture and design choices directly address each one.
 
 ## 📝 License
 
